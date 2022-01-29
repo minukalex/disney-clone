@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Avenir-Roman';
+    src: local('Avenir-Roman'), url(./fonts/Avenir-Font/AvenirLTStd-Roman.otf) format('truetype');
+  }
+/*Este es un formato de Poner la font*/
+@font-face {
+    font-family: 'Avenir-Black';
+    src:  url(./fonts/Avenir-Font/AvenirLTStd-Black.otf) ;
+  }
+  
+/*Este es un otro formanto de Poner la font*/
